@@ -1,0 +1,6 @@
+HTTP/1.0 404 Not Found
+Content-Length : 0
+Content-type : NULL
+
+404 Page not found
+
